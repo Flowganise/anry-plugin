@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "anry": {
+      "type": "http",
+      "url": "https://mcp.anry.io/mcp"
+    }
+  }
+}

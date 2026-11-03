@@ -1,0 +1,15 @@
+{
+  "name": "anry",
+  "description": "Anry: the revenue analyst for an ecommerce store, in Claude",
+  "owner": {
+    "name": "Flowganise Pty Ltd",
+    "url": "https://anry.io"
+  },
+  "plugins": [
+    {
+      "name": "anry",
+      "source": "./anry",
+      "description": "Find where your store is losing revenue: priced findings, the evidence behind each one, and the fix."
+    }
+  ]
+}

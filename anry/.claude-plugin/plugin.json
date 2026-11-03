@@ -1,0 +1,13 @@
+{
+  "name": "anry",
+  "displayName": "Anry",
+  "version": "1.0.0",
+  "description": "Give Claude your store's analyst. Anry watches your shop and ad spend, finds and prices revenue leaks, and serves the reports, evidence and ready-to-ship fixes behind every finding, with the playbooks its own analysts reason from.",
+  "author": {
+    "name": "Flowganise Pty Ltd",
+    "url": "https://anry.io"
+  },
+  "homepage": "https://anry.io",
+  "license": "MIT",
+  "keywords": ["ecommerce", "analytics", "cro", "revenue", "paid-ads", "shopify"]
+}
