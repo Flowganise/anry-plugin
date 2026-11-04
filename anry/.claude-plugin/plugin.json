@@ -9,6 +9,7 @@
     "url": "https://anry.io"
   },
   "homepage": "https://anry.io",
+  "privacyPolicyUrl": "https://anry.io/privacy",
   "license": "MIT",
   "keywords": ["ecommerce", "analytics", "cro", "revenue", "paid-ads", "shopify"]
 }
