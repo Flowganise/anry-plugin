@@ -9,7 +9,10 @@
     "url": "https://anry.io"
   },
   "homepage": "https://anry.io",
+  "repository": "https://github.com/Flowganise/anry-plugin",
   "privacyPolicyUrl": "https://anry.io/privacy",
+  "termsOfServiceUrl": "https://anry.io/terms",
+  "supportUrl": "https://anry.io/mcp/docs#support",
   "license": "MIT",
   "keywords": ["ecommerce", "analytics", "cro", "revenue", "paid-ads", "shopify"]
 }
